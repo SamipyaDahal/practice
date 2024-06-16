@@ -13,3 +13,6 @@ print("Vehicle")
 print("Mercedes")
 
 print("BMW")
+
+print("Trash")
+
